@@ -1,2 +1,3 @@
 # Parnika
-This is my Github
+This is my GitHub.
+Author - Parnika kosuri 
